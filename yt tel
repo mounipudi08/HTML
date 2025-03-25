@@ -1,0 +1,13 @@
+shift + 1
+we will get boiler plate --> It will give structure
+Title --> <title>title comes here</title>
+Heading --> <h1>Heading</h1>
+paragraph --> <p> </p>
+Button --> <Button>..</Button>
+<Link> <a>...</a>
+Image <img> ... />
+List <ul><li>   </li></ul>
+Table <table></table>
+Form <form> </form>
+Input <Input> </Input>
+Select <Select> </select>
