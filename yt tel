@@ -11,3 +11,64 @@ Table <table></table>
 Form <form> </form>
 Input <Input> </Input>
 Select <Select> </select>
+
+grouped elements
+<div>
+Title --> <title>title comes here</title>
+Heading --> <h1>Heading</h1>
+paragraph --> <p> </p>
+Button --> <Button>..</Button>
+</div>
+
+Attributes
+
+<div class="mango">
+  Text comes here
+</div>
+
+<div id="mango">
+<h1 style="color:red">Apple is Red </h1>
+<img src="stock-images/myPic.png" alt="google" />
+<a href="http://google.com">Advance </a>
+
+attributes
+href,src,alt,lang,class,id,height,width,style
+
+Links and Images
+
+Ctrl + / --> for comment
+
+<table></table> --> Creates a Table
+<thead></thead> -->creates  aTable Header
+<tr></tr> --Create Row
+<th></th> -- Write a Heading Content
+<tbody></tbody> -- create a table Body
+<tr></tr> - create a Row
+<td></td> -- write Table Body Data
+
+<input type="text">
+<input type="password">
+<input type="email">
+<input type="number">
+<input type="checkbox">
+<input type="radio">
+<input type="hidden">
+<input type="button">
+<input type="color">
+<input type="file">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
